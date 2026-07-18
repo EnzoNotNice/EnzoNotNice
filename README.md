@@ -55,13 +55,9 @@ I design and build Discord bots — from lightweight utility bots to full commun
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoNotNice&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Enzo's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=EnzoNotNice&theme=tokyonight&hide_border=true" width="49%" alt="Enzo's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoNotNice&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
