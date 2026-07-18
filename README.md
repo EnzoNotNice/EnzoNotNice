@@ -67,18 +67,6 @@ I design and build Discord bots — from lightweight utility bots to full commun
 
 ---
 
-## 🤖 Featured Projects
-
-| Project | Description | Built With |
-|---|---|---|
-| **[Project Name](https://github.com/EnzoNotNice/repo-name)** | One-line pitch — what it does (add a number if you have one: servers, users, commands) | `discord.js` `Node.js` |
-| **[Project Name](https://github.com/EnzoNotNice/repo-name)** | Your second-best bot or tool | `TypeScript` |
-| **[Project Name](https://github.com/EnzoNotNice/repo-name)** | A dashboard, API, or library you're proud of | `React` `Python` |
-
-> 💡 Swap these rows for your real repos — 2–3 pinned projects with a one-line "why it matters" beats a long list every time.
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
